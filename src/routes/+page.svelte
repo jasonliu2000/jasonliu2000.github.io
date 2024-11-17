@@ -3,8 +3,8 @@
 <p>Software engineer based in Massachusetts.</p>
 <p>Graduated from Boston College in 2022 with a degree in Mathematics and Economics.</p>
 
-<a href="https://www.linkedin.com/in/jasonliu-bc2022/">LinkedIn</a> | 
-<a href="https://github.com/jasonliu2000">Github</a> |
+<a target="_blank" href="https://www.linkedin.com/in/jasonliu-bc2022/">LinkedIn</a> | 
+<a target="_blank" href="https://github.com/jasonliu2000">Github</a> |
 <a href="mailto:jasonliu00@gmail.com"> Email me</a>
 
 <style>
