@@ -9,6 +9,6 @@
 
 <style>
   h1 {
-    color: firebrick;
+    color: darkblue;
   }
 </style>
