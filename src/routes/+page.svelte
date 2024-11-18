@@ -5,7 +5,7 @@
 </script>
 
 <main>
-  <h1>jason liu</h1>
+  <h1>Jason Liu</h1>
 
   <p>Software engineer based in Massachusetts.</p>
   <p>Graduated from Boston College in 2022 with a degree in Mathematics and Economics.</p>
@@ -17,7 +17,6 @@
 
 <style>
   h1 {
-    color: darkblue;
     font-size: 100px;
   }
 
@@ -37,5 +36,6 @@
   main {
     margin: auto;
     width: 60%;
+    font-family: Helvetica, Arial, sans-serif;
   }
 </style>
